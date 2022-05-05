@@ -1,4 +1,4 @@
 ﻿  sort.cpp
-D:\Algorithm\Baekjoon_Algorithm\2750\sort.cpp(9,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\Algorithm\Baekjoon_Algorithm\2750\sort.cpp(11,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Algorithm\Baekjoon_Algorithm\2750\sort.cpp(10,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Algorithm\Baekjoon_Algorithm\2750\sort.cpp(12,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   2750.vcxproj -> D:\Algorithm\Baekjoon_Algorithm\BaekJoonAlgorithm\Debug\2750.exe
