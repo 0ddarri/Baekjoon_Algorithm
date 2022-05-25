@@ -1,6 +1,4 @@
 ﻿  differentstring.cpp
-D:\Algorithm\Baekjoon_Algorithm\11478\differentstring.cpp(13,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\Algorithm\Baekjoon_Algorithm\11478\differentstring.cpp(15,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\Algorithm\Baekjoon_Algorithm\11478\differentstring.cpp(31,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-D:\Algorithm\Baekjoon_Algorithm\11478\differentstring.cpp(32,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Algorithm\Baekjoon_Algorithm\11478\differentstring.cpp(17,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Algorithm\Baekjoon_Algorithm\11478\differentstring.cpp(18,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   11478.vcxproj -> D:\Algorithm\Baekjoon_Algorithm\BaekJoonAlgorithm\Debug\11478.exe
