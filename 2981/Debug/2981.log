@@ -1,0 +1,3 @@
+﻿  inspect.cpp
+D:\Algorithm\Baekjoon_Algorithm\2981\inspect.cpp(47,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2981.vcxproj -> D:\Algorithm\Baekjoon_Algorithm\BaekJoonAlgorithm\Debug\2981.exe
